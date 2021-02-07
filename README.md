@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hi, I am Sumit Gaur and I am a software developer.
+
+### 💻 I primarly work with java and related tech stack.
+
+### 🧪 I learn by contributing to multiple projects and by trying new things.
+
+### 📝 I write interesting java articles on [JvmAware](https://jvmaaware.com)
+
+### 👀 You can find more about me [here](https://www.linkedin.com/in/sumit-gaur/)
 
 <!--
 **gaurs/gaurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
