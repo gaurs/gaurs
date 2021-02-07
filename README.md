@@ -4,7 +4,7 @@
 
 ### 🧪 I learn by contributing to multiple projects and by trying new things.
 
-### 📝 I write interesting java articles on [JvmAware](https://jvmaaware.com)
+### 📝 I write interesting java articles on [JvmAware](https://jvmaware.com)
 
 ### 👀 You can find more about me [here](https://www.linkedin.com/in/sumit-gaur/)
 
